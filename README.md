@@ -1,6 +1,6 @@
-# Blog
+# Blank Filament App
 
-A blog application built with Laravel 12, Filament v5, and Tailwind CSS v4. Features post management with a Filament admin panel.
+This is a starter template for building applications with Laravel and Filament. It includes a clean setup with authentication, a sample dashboard, and blank pages to get you started quickly.
 
 ## Tech Stack
 
