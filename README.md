@@ -15,7 +15,7 @@ A blog application built with Laravel 12, Filament v5, and Tailwind CSS v4. Feat
 
 ```bash
 git clone https://github.com/zstio-pt/blank-filament-app.git
-cd blog-2
+cd blank-filament-app
 composer install
 npm install
 cp .env.example .env
